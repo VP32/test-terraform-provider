@@ -1,4 +1,4 @@
-# Terraform Provider Hashicups
+# Terraform Test Provider
 
 Run the following command to build the provider
 
